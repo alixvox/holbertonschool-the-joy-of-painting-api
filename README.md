@@ -1,0 +1,1 @@
+In this project, I will be making my own database in a ETL fashion!
